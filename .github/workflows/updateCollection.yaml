@@ -2,7 +2,7 @@ name: update DTS collection file
 on:
   schedule: 
       - cron: '50 1 * * *'
-      - cron: '10 17 * * *'
+      - cron: '55 13 * * *'
 jobs:
   update-collection:
     runs-on: ubuntu-latest

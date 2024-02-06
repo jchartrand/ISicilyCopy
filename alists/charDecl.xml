@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+    <!-- List of glyphs in ISicily -->
+
+    <charDecl xmlns="http://www.tei-c.org/ns/1.0">
+                <!-- punctuation and delimiters -->
+                <glyph xml:id="interpunct">
+                    <mapping type="glyph-display">·</mapping><!-- for reference, ano teleia is  &#x387; -->
+                    <mapping type="standard">&#xB7;</mapping>
+                    <mapping type="simplified">(interpunct)</mapping>
+                </glyph>
+                
+                <glyph xml:id="dipunct">
+                    <mapping type="glyph-display">:</mapping>
+                    <mapping type="standard">&#x205A;</mapping>
+                    <mapping type="simplified">(dipunct)</mapping>
+                </glyph>
+                
+                <glyph xml:id="tripunct">
+                    <mapping type="glyph-display">⁝</mapping>
+                    <mapping type="standard">&#x205D;</mapping>
+                    <mapping type="simplified">(tripunct)</mapping>
+                </glyph>
+                
+                <glyph xml:id="tetrapunct">
+                    <mapping type="glyph-display">⁞</mapping>
+                    <mapping type="standard">&#x205E;</mapping>
+                    <mapping type="simplified">(tetrapunct)</mapping>
+                </glyph>
+                
+                <glyph xml:id="long-vertical-bar">
+                    <mapping type="glyph-display">|</mapping>
+                    <mapping type="standard">|</mapping>
+                    <mapping type="simplified">(long vertical bar)</mapping>
+                </glyph>
+                
+                <glyph xml:id="double-vertical-bar">
+                    <mapping type="glyph-display">‖</mapping>
+                    <mapping type="standard">‖</mapping>
+                    <mapping type="simplified">(double vertical bar)</mapping>
+                </glyph>
+                
+                <glyph xml:id="ivy-leaf">
+                    <mapping type="glyph-display">❦</mapping>
+                    <mapping type="standard">&#x2766;</mapping>
+                    <mapping type="simplified">(leaf)</mapping>
+                </glyph>
+        
+                 <glyph xml:id="paragraphos">
+                     <mapping type="glyph-display">‾</mapping>
+                     <mapping type="standard">&#x203E;</mapping>
+                     <mapping type="simplified">(paragraphos)</mapping>
+                 </glyph>
+        
+                <glyph xml:id="diple">
+                    <mapping type="glyph-display">></mapping>
+                    <mapping type="standard">&#x0003E;</mapping>
+                    <mapping type="simplified">(diple)</mapping>
+                </glyph>
+        
+                <glyph xml:id="dash">
+                    <mapping type="glyph-display">–</mapping>
+                    <mapping type="standard">&#x02013;</mapping>
+                    <mapping type="simplified">(dash)</mapping>
+                </glyph>
+        
+        <glyph xml:id="sinusoid"><!-- unicode U+1018C, used regularly as an abbreviation marker in later Roman/Greek epigraphy -->
+                    <mapping type="glyph-display">𐆌</mapping>
+                    <mapping type="standard">&#65932;</mapping>
+                    <mapping type="simplified">(sinusoid)</mapping>
+                </glyph>
+        
+                
+                <!-- numerals and dating -->
+        <glyph xml:id="early-Roman-fifty">
+            <mapping type="glyph-display">ↆ</mapping>
+            <mapping type="standard">&#8582;</mapping>
+            <mapping type="simplified">(50)</mapping>
+        </glyph>
+        
+                <glyph xml:id="reversed-hundred">
+                    <mapping type="glyph-display">Ↄ</mapping>
+                    <mapping type="standard">&#x2183;</mapping>
+                    <mapping type="simplified">(reversed 100)</mapping>
+                </glyph>
+                
+                <glyph xml:id="thousand">
+                    <mapping type="glyph-display">ↀ</mapping>
+                    <mapping type="standard">&#x2180;</mapping>
+                    <mapping type="simplified">(1000)</mapping>
+                </glyph>
+                
+                <glyph xml:id="fivethousand">
+                    <mapping type="glyph-display">ↁ</mapping>
+                    <mapping type="standard">&#x2181;</mapping>
+                    <mapping type="simplified">(5000)</mapping>
+                </glyph>
+                
+                <glyph xml:id="tenthousand">
+                    <mapping type="glyph-display">ↂ</mapping>
+                    <mapping type="standard">&#x2182;</mapping>
+                    <mapping type="simplified">10,000</mapping>
+                </glyph>
+                
+               
+                <!-- currencies -->
+                <glyph xml:id="denarius">
+                    <mapping type="glyph-display">𐆖</mapping>
+                    <mapping type="standard">&#x10196;</mapping>
+                    <mapping type="simplified">(denarius)</mapping>
+                </glyph>
+                
+                <glyph xml:id="sestertius">
+                    <mapping type="glyph-display">𐆘</mapping>
+                    <mapping type="standard">&#x10198;</mapping>
+                    <mapping type="simplified">(sestertius)</mapping>
+                </glyph>
+                
+                <glyph xml:id="drachma">
+                    <mapping type="glyph-display">𐅵</mapping>
+                    <mapping type="standard">&#x10175;</mapping>
+                    <mapping type="simplified">(drachma)</mapping>
+                </glyph>
+                
+                <!-- military -->
+                <glyph xml:id="centuria">
+                    <mapping type="glyph-display">𐆛</mapping>
+                    <mapping type="standard">&#x1019B;</mapping>
+                    <mapping type="simplified">(centurial sign)</mapping>
+                </glyph>
+                
+     
+               <!-- other symbols -->     
+                <glyph xml:id="monogram">
+                    <mapping type="standard">monogram</mapping>
+                    <mapping type="simplified">monogr.</mapping>
+                </glyph>
+                
+                <glyph xml:id="palm">
+                    <mapping type="glyph-display">⸙</mapping>
+                    <mapping type="standard">&#x2e19;</mapping>
+                    <mapping type="simplified">(palm)</mapping>
+                </glyph>
+                
+                <glyph xml:id="star">
+                    <mapping type="glyph-display">*</mapping>
+                    <mapping type="standard">*</mapping>
+                    <mapping type="simplified">(star)</mapping>
+                </glyph>
+        
+                <glyph xml:id="corona">
+                    <mapping type="standard">corona</mapping>
+                    <mapping type="simplified">(corona)</mapping>
+                </glyph>
+                
+                <glyph xml:id="sign_uninterpreted">
+                    <mapping type="standard">sign, uninterpreted</mapping>
+                    <mapping type="simplified">(sign, uninterpreted)</mapping>
+                </glyph>
+        
+              <glyph xml:id="sign_alphabetic">
+                  <mapping type="standard">sign, alphabetic</mapping>
+                  <mapping type="simplified">(sign, alphabetic)</mapping>
+              </glyph>
+                
+                <glyph xml:id="hourglass">
+                    <mapping type="glyph-display">⧖</mapping>
+                    <mapping type="standard">&#x29D6;</mapping>
+                    <mapping type="simplified">(hourglass)</mapping>
+                </glyph>
+                
+                <glyph xml:id="double_axe">
+                    <mapping type="standard">double axe</mapping>
+                    <mapping type="simplified">(double axe)</mapping>
+                </glyph>
+                
+                <glyph xml:id="figure_zoomorphic">
+                    <mapping type="standard">figure, zoomorphic</mapping>
+                    <mapping type="simplified">(figure, zoomorphic)</mapping>
+                </glyph>
+        
+                
+                
+                <!-- religious -->
+                <glyph xml:id="christogram">
+                    <mapping type="glyph-display">☧</mapping>
+                    <mapping type="standard">&#x2627;</mapping>
+                    <mapping type="simplified">(christogram)</mapping>
+                </glyph>
+                
+                <glyph xml:id="christogram_decussate">
+                    <mapping type="standard">christogram, decussate</mapping>
+                    <mapping type="simplified">(christogram, decussate)</mapping>
+                </glyph>
+                
+                <glyph xml:id="christogram_radiate">
+                    <mapping type="standard">christogram, radiate</mapping>
+                    <mapping type="simplified">(christogram, radiate)</mapping>
+                </glyph>
+                
+                <glyph xml:id="christogram_triangle">
+                    <mapping type="standard">christogram with triangle</mapping>
+                    <mapping type="simplified">(christogram with triangle)</mapping>
+                </glyph>
+        
+                <glyph xml:id="christogram_chi-tau">
+                    <mapping type="standard">christogram of chi-tau</mapping>
+                    <mapping type="simplified">(christogram of chi-tau)</mapping>
+                </glyph>
+        
+                <glyph xml:id="staurogram">
+                    <mapping type="glyph-display">𐆠</mapping>
+                    <mapping type="standard">&#x101a0;</mapping>
+                    <mapping type="simplified">(staurogram)</mapping>
+                </glyph>
+                
+                <glyph xml:id="staurogram_triangle">
+                    <mapping type="standard">staurogram with triangle</mapping>
+                    <mapping type="simplified">(staurogram with triangle)</mapping>
+                </glyph>
+                
+                <glyph xml:id="cross_uninterpreted">
+                    <mapping type="glyph-display">+</mapping>
+                    <mapping type="standard">&#x2B;</mapping>
+                    <mapping type="simplified">(cross, uninterpreted)</mapping>
+                </glyph>
+                
+                <glyph xml:id="cross_latin">
+                    <mapping type="glyph-display">†</mapping>
+                    <mapping type="standard">&#x2020;</mapping>
+                    <mapping type="simplified">(cross, Latin)</mapping>
+                </glyph>
+                
+                <glyph xml:id="cross_greek">
+                    <mapping type="glyph-display">🞣</mapping>
+                    <mapping type="standard">&#x1F7A3;</mapping>
+                    <mapping type="simplified">(cross, Greek)</mapping>
+                </glyph>
+        
+                <glyph xml:id="cross_decussate">
+                    <mapping type="standard">cross, decussate</mapping>
+                    <mapping type="simplified">(cross, decussate)</mapping>
+                </glyph>
+                
+                <glyph xml:id="cross_gammata">
+                    <mapping type="standard">cross, gammata</mapping>
+                    <mapping type="simplified">(cross, gammata)</mapping>
+                </glyph>
+                
+                <glyph xml:id="alpha">
+                    <mapping type="glyph-display">Α</mapping>
+                    <mapping type="standard">&#x391;</mapping>
+                    <mapping type="simplified">(alpha)</mapping>
+                </glyph>
+                
+                <glyph xml:id="omega">
+                    <mapping type="glyph-display">Ω</mapping>
+                    <mapping type="standard">&#x3A9;</mapping>
+                    <mapping type="simplified">(omega)</mapping>
+                </glyph>
+        
+                <glyph xml:id="sigma">
+                    <mapping type="glyph-display">Σ</mapping>
+                    <mapping type="standard">&#x3A3;</mapping>
+                    <mapping type="simplified">(sigma)</mapping>
+                </glyph>
+                
+                <glyph xml:id="menorah">
+                    <mapping type="glyph-display">🕎</mapping>
+                    <mapping type="standard">&#x1f54e;</mapping>
+                    <mapping type="simplified">(menorah)</mapping>
+                </glyph>
+        
+             <glyph xml:id="lulav">
+                 <mapping type="glyph-display">✡︎</mapping>
+                 <mapping type="standard">&#x2721;</mapping>
+                 <mapping type="simplified">(lulav)</mapping>
+             </glyph>
+        
+             <glyph xml:id="shofar">
+                 <mapping type="standard">shofar</mapping>
+                 <mapping type="simplified">(shofar)</mapping>
+             </glyph>
+        
+            <glyph xml:id="etrog">
+                <mapping type="standard">etrog</mapping>
+                <mapping type="simplified">(etrog)</mapping>
+            </glyph>
+          
+                
+        </charDecl>
